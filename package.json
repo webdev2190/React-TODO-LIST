@@ -1,6 +1,6 @@
 {
-  "homepage": "http://webdev2190.github.io/reactplan",
-  "name": "reactplan",
+  "homepage": "http://webdev2190.github.io/React-TODO-LIST",
+  "name": "React-TODO-LIST",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
